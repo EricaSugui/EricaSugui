@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericasugui&label=Profile%20views&color=0e75b6&style=flat" alt="ericasugui" /> </p>
 
-- 🔭 I’m currently working on **my mobile portfolio**
+- 🔭 I’m currently working on **my software engineering studies**
 
-- 🌱 I’m currently learning **React-Native, Kotlin**
+- 🌱 I’m currently learning **SQL, Azure, Python**
 
 - 💬 Ask me about **git, github, Zendesk**
 
