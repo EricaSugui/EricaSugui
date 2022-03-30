@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my software engineering studies** [![wakatime](https://wakatime.com/badge/user/82caa0ce-9fb8-49a3-936e-b6e93aac8c10.svg)](https://wakatime.com/@82caa0ce-9fb8-49a3-936e-b6e93aac8c10)
 
-- 🌱 I’m currently learning **SQL, Azure, Python**
+- 🌱 I’m currently learning **NextJS, Jest, GraphQL**
 
 - 💬 Ask me about **git, github, Zendesk**
 
