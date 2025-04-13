@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **git, github, React, tests**
 
-- 📫 How to reach me **ericasugui@gmail.com**
+- 📫 How to reach me **ericadaikawa@gmail.com**
 
 - ⚡ Fun fact **I was a Bikram Yoga teacher!**
 
