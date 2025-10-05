@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **my software engineering studies** [![wakatime](https://wakatime.com/badge/user/82caa0ce-9fb8-49a3-936e-b6e93aac8c10.svg)](https://wakatime.com/@82caa0ce-9fb8-49a3-936e-b6e93aac8c10)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **KOTLIN**
 
-- 💬 Ask me about **git, github, React, tests**
+- 💬 Ask me about **git, github, React, React-Native, tests**
 
 - 📫 How to reach me **ericadaikawa@gmail.com**
 
